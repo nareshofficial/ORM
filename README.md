@@ -60,5 +60,6 @@ class Loan(models.Model):
 
 ![Screenshot 2024-09-01 211840](https://github.com/user-attachments/assets/9c729a8b-7069-4770-b1af-72e28a5203a1)
 
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
